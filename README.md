@@ -28,4 +28,4 @@ pip install pandas matplotlib numpy
 - charts/ - Output images
 
 ## Author
-[Your Name]
+Angel Gupta
