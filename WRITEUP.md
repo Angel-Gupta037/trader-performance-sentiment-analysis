@@ -5,7 +5,7 @@
 **Data:**
 - Fear & Greed Index: Daily Bitcoin sentiment (Fear/Greed/Neutral)
 - Hyperliquid Trader Data: Individual trades with PnL, size, side, leverage
-
+- 
 **Preparation:**
 - Converted timestamps to daily level
 - Aggregated per trader per day: total PnL, trade count, win rate, avg position size, long/short ratio
