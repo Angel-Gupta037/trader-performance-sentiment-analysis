@@ -24,7 +24,6 @@ pip install pandas matplotlib numpy
 ## Files
 - analysis.ipynb - Main code
 - WRITEUP.md - Summary of findings
-- data/ - CSV files
 - charts/ - Output images
 
 ## Author
